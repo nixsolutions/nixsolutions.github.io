@@ -1,0 +1,50 @@
+name: NIX Solutions Ltd.
+description: "NIX Solutions Ltd is outsourcing IT company located in Kharkiv, Ukraine. It provides custom software development: web, mobile, and desktop"
+avatar: https://avatars0.githubusercontent.com/u/4631052?v=3&s=200
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: nixsolutions
+  instagram:
+  linkedin:
+  pinterest:
+  rss:
+  twitter:
+  stackoverflow:
+  youtube:
+  googleplus:
+
+disqus:
+
+google_analytics:
+
+url: http://nixsolutions.github.io
+
+baseurl: ""
+
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CNAME
+  - CNAME
