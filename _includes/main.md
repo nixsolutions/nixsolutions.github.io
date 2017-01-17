@@ -1,4 +1,4 @@
-Ресурсы:
+{{ site.data[page.lang].resources }}:
 --
-* [Сайт компании NIX Solutions](https://www.nixsolutions.com/ru/)
-* [Шаблоны проектирования](https://nixsolutions.github.io/design-patterns/)
+* [{{ site.data[page.lang].links.nix.title }}]({{ site.data[page.lang].links.nix.href }})
+* [{{ site.data[page.lang].links.design-patterns.title }}]({{ site.data[page.lang].links.design-patterns.href }})

@@ -1,0 +1,9 @@
+description: "NIX Solutions - это разработка программного обеспечения, веб-приложений, сопровождение программного обеспечения, удаленное администрирование и IT консалтинг."
+resources: Ресурсы
+links:
+  nix:
+    title: NIX Solutions
+    href: https://www.nixsolutions.com/ru/
+  design-patterns:
+    title: Шаблоны проектирования
+    href: https://nixsolutions.github.io/design-patterns/

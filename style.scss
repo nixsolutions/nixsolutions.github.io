@@ -222,6 +222,20 @@ img {
   text-align: center;
 }
 
+.lang {
+  margin: 15px;
+  float: right;
+}
+
+.lang li {
+  display: inline;
+}
+
+.lang li a.active {
+  color: #EB1746;
+  border-bottom: 1px solid #00ACED;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
