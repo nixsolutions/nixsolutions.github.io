@@ -7,3 +7,6 @@ links:
   design-patterns:
     title: Шаблоны проектирования
     href: https://nixsolutions.github.io/design-patterns/
+  portfolio:
+    title: Портфолио исходного кода приложений
+    href: https://nixsolutions.github.io/portfolio/
