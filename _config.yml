@@ -27,7 +27,7 @@ baseurl: ""
 permalink: "/_pages/"
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v3.7.3
 
 kramdown:
   input: GFM
